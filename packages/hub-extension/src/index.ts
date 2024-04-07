@@ -23,11 +23,11 @@ import { ITranslator } from '@jupyterlab/translation';
  * The command IDs used by the plugin.
  */
 export namespace CommandIDs {
-  export const controlPanel: string = 'hub:control-panel';
+  export const controlPanel: string = 'hub:control-panel-hwq';
 
-  export const logout: string = 'hub:logout';
+  export const logout: string = 'hub:logout-hwq';
 
-  export const restart: string = 'hub:restart';
+  export const restart: string = 'hub:restart-hwq';
 }
 
 /**

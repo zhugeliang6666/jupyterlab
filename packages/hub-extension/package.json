@@ -2,13 +2,13 @@
   "name": "@jupyterlab/hub-extension",
   "version": "4.2.0-alpha.2",
   "description": "JupyterLab integration for JupyterHub",
-  "homepage": "https://github.com/jupyterlab/jupyterlab",
+  "homepage": "https://github.com/zhugeliang6666/jupyterlab",
   "bugs": {
-    "url": "https://github.com/jupyterlab/jupyterlab/issues"
+    "url": "https://github.com/zhugeliang6666/jupyterlab/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jupyterlab/jupyterlab.git"
+    "url": "https://github.com/zhugeliang6666/jupyterlab.git"
   },
   "license": "BSD-3-Clause",
   "author": "Project Jupyter",
